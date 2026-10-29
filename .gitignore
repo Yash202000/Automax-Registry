@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+main
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.idea/
+.vscode/
+*.swp
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+/bin/
+/dist/
+/server
+/registry
+tmp/
+__debug_bin
